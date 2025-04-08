@@ -216,3 +216,22 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - The amazing open-source security community
 - All the brilliant tools this script builds upon
 - Bug bounty platforms that enable security research
+
+## 🥇 CREDITS & LOVE ✨
+
+Created with passion by **SecOpsElite** — Cybersecurity Specialist
+
+Follow and support:
+
+- 🥇 [Facebook](https://www.facebook.com/secopselite)
+- 🥇 [Twitter (X)](https://x.com/secopselite)
+- 🥇 [Pinterest](https://www.pinterest.com/secopselite/)
+- 🥇 [Instagram](https://www.instagram.com/secopselite/)
+
+---
+
+> "Hunt bugs. Break systems. Report responsibly."
+
+<p align="center">
+  <img src="https://media.tenor.com/JynFuzUqj6EAAAAd/anonymous-dark.gif" width="350">
+</p>
